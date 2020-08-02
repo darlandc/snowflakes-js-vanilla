@@ -1,0 +1,10 @@
+html{
+    /*background-image: url('https://images4.alphacoders.com/199/199646.jpg');*/
+    background-image: url('https://images.alphacoders.com/200/thumb-1920-200023.jpg');
+    background-size: cover;
+    overflow: hidden;
+  }
+  
+  canvas{
+    z-index: 2;
+  }
